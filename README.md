@@ -37,10 +37,6 @@ Ensure proper formatting for lists:
 - Use `-` or `*` for unordered lists.
 - Use `1.`, `2.`, etc., for ordered lists.
 
-### 4. **Preserve Structure**
-
-Keep the sections in their original order. The LLM relies on this structure to process and generate accurate responses.
-
 ## Summary on Using Markdown
 
 ### **With Markdown (headers and bold)**:
