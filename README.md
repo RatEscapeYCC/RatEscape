@@ -66,6 +66,14 @@ It's essential to maintain the structure of the document as closely as possible.
 
 Do **not** change the section names or reorder them. The LLM will rely on the specific structure to generate responses correctly.
 
+## **Summary on Using Markdown**
+
+### **Using Markdown (headers and bold)**:
+Markdown elements like headers and bold text are helpful in organizing the content and emphasizing key points. These formatting tools make it easier for the LLM to follow the structure, ensuring the model can prioritize critical information in an organized manner. When you use headers (`#`, `##`) and bold text (`**bold**`), it allows the model to easily navigate through different sections and focus on important elements, improving the accuracy and clarity of the response.
+
+### **Without Markdown**:
+While the LLM can still process prompts without Markdown, the lack of structure can make it harder for the model to interpret complex or multi-part tasks. Without headers and emphasis through bold text, the response might lack focus, and important details could be overlooked. So, while the model can generate responses without it, using Markdown effectively enhances both the organization of the prompt and the clarity of the output.
+
 ## Tips for Editing the about.md File
 
 - **Be Consistent**: Ensure that formatting is consistent throughout the file, especially for key details like token addresses, URLs, and milestones.
