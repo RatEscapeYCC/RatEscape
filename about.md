@@ -10,7 +10,7 @@ Here are the key details about Rat Escape:
 - **Discord**: [Join Discord](https://discord.com/invite/ycc)
 - **Telegram**: [Join Telegram](https://t.me/RatEscapeOfficial)
 
---- YCC best community
+---
 
 ### About $RAT:
 $RAT is the ultimate meme token for bag holders trapped in the rat race, offering nothing but a shot at freedom.
