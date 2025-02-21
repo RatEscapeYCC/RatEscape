@@ -23,6 +23,10 @@ The **about.md** file includes the following main sections:
 
 ### 1. **Headings and Subheadings**
 
+Headings and subheadings are crucial for maintaining the logical structure and flow of the document. They allow readers and the AI to easily navigate the document and quickly find the information they need. For example:
+- The main heading `# About Rat Escape` introduces the overall context.
+- Subheadings like `## Why $RAT?` help break down sections into more specific topics, which makes the content easier to process both for humans and the AI system.
+
 - Use `#` for main headings (e.g., `# About Rat Escape`)
 - Use `##` for subsections (e.g., `## About $RAT`)
 - Use `###` for further nested sections (e.g., `### Why $RAT?`)
