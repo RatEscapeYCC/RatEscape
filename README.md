@@ -59,17 +59,6 @@ The **colon (:)** is used to introduce or highlight important information. In Ma
 
 In Markdown, the colon also helps create a cleaner separation of sections or ideas, making it easier for the LLM to interpret the structure and respond appropriately.
 
-### 6. **Semicolons**
-
-The **semicolon (;)** is used in Markdown and general writing to:
-1. **Separate Related Independent Clauses**: Connect two closely related ideas or independent clauses within a sentence.
-   - **Example**: "The project is thriving; the community is growing."
-2. **Clarify Complex Ideas**: Improve sentence clarity by breaking up complex information while maintaining relationships between ideas.
-3. **Organize Lists**: In some cases, semicolons can separate items in a list, especially when the items themselves contain commas.
-   - **Example**: "The project has many milestones; community engagement is key; we’re focused on expansion."
-
-Semicolons help guide the LLM in parsing input, ensuring better understanding and more accurate responses;
-
 ## Tips for Editing
 
 - **Be Consistent**: Ensure uniform formatting throughout the file;
