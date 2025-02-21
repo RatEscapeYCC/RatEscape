@@ -50,20 +50,7 @@ Text that requires emphasis should be marked with the appropriate syntax:
 - **Bold text**: Use `**` to mark bold text (e.g., `**Bold Text**`).
 - *Italic text*: Use `*` or `_` to mark italic text (e.g., `*Italic Text*`).
 
-### 6. **Code Blocks and Inline Code**
-
-For specific terms or tokens like `$RAT`, use inline code syntax by surrounding the text with single backticks (```).
-
-For longer code blocks or multi-line code, use triple backticks (```).
-
-### 7. **TCC Reward Section**
-
-Make sure the TCC reward calculation is accurate and the formatting is consistent with how it was previously. This section will be used by the AI to explain reward mechanics, so accuracy is vital.
-
-The reward formula should be clearly defined:
-The reward is 0.5% of the $RAT tokens held, with a daily cap of 1,000 TCC.
-
-### 8. **Preserve the Structure and Formatting**
+### 6. **Preserve the Structure and Formatting**
 
 It's essential to maintain the structure of the document as closely as possible. For example:
 - The order of sections must not be changed.
