@@ -40,7 +40,8 @@ Ensure proper formatting for lists:
 ## Summary on Using Markdown
 
 ### **With Markdown (headers, bold, and lists)**:
-- **Headers and Bold**: Using **bold** keywords helps the AI quickly identify and prioritize important details. Much like how users emphasize key points on platforms like Twitter, **bold** text acts as a cue for the AI to focus on critical information, improving its ability to generate accurate and relevant responses.
+- **Headers**: Organizing content with clear headings helps the AI navigate the document structure, making it easier to follow sections and identify the context of each part. For example, using `#` for main headings and `##` for subheadings gives the AI a clear map of the document, improving response accuracy.
+- **Bold**: Using **bold** keywords helps the AI quickly identify and prioritize important details. Much like how users emphasize key points on platforms like Twitter, **bold** text acts as a cue for the AI to focus on critical information, improving its ability to generate accurate and relevant responses.
 - **Lists**: Using **ordered** lists (e.g., `1.`, `2.`) helps to indicate a sequence or priority, making the task or steps clear to the LLM. **Unordered** lists (e.g., `-` or `*`) are useful for grouping related items without implying any particular order, allowing for more flexibility. Properly formatted lists help the LLM understand relationships between elements and provide clearer output.
 
 While the LLM can still process the input without Markdown, the lack of structure may make it harder for the model to interpret complex tasks, potentially leading to less organized responses.
