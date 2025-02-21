@@ -14,7 +14,6 @@ The **about.md** file includes the following main sections:
 2. **$RAT Token Details**: Information about the $RAT token, including contract addresses and key identifiers;
 3. **Why $RAT?**: Explanation of the token's value and the community-driven elements;
 4. **Roadmap**: Timeline of the project’s goals and milestones;
-5. **Colon (:)**: How the colon impacts Markdown structure and LLM interpretation;
 6. **Where to Buy $RAT**: Instructions on how and where to buy $RAT tokens;
 7. **TCC Rewards**: How to earn TCC rewards and the reward calculation method;
 
