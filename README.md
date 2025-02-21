@@ -1,4 +1,4 @@
-# README - Managing the About.md File
+# README - Managing the **about.md** File
 
 This document outlines the guidelines for editing the **about.md** file for the Rat Escape project. Proper formatting is essential for the LLM to process the information accurately and generate relevant responses.
 
@@ -39,8 +39,9 @@ Ensure proper formatting for lists:
 
 ## Summary on Using Markdown
 
-### **With Markdown (headers and bold)**:
-Organizing the content with headers and bold text makes it easier for the LLM to navigate the document and prioritize critical information, leading to more focused and accurate responses.
+### **With Markdown (headers, bold, and lists)**:
+- **Headers and Bold**: Organizing the content with headers and bold text makes it easier for the LLM to navigate the document and prioritize critical information, leading to more focused and accurate responses.
+- **Lists**: Using **ordered** lists (e.g., `1.`, `2.`) helps to indicate a sequence or priority, making the task or steps clear to the LLM. **Unordered** lists (e.g., `-` or `*`) are useful for grouping related items without implying any particular order, allowing for more flexibility. Properly formatted lists help the LLM understand relationships between elements and provide clearer output.
 
 ### **Without Markdown**:
 While the LLM can still process the input without Markdown, the lack of structure may make it harder for the model to interpret complex tasks, potentially leading to less organized responses.
