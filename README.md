@@ -14,7 +14,7 @@ The **about.md** file includes the following main sections:
 2. **$RAT Token Details**: Information about the $RAT token, including contract addresses and key identifiers;
 3. **Why $RAT?**: Explanation of the token's value and the community-driven elements;
 4. **Roadmap**: Timeline of the project’s goals and milestones;
-5. **Semicolons**: How semicolons impact LLM input and output;
+5. **Colon (:)**: How the colon impacts Markdown structure and LLM interpretation;
 6. **Where to Buy $RAT**: Instructions on how and where to buy $RAT tokens;
 7. **TCC Rewards**: How to earn TCC rewards and the reward calculation method;
 
@@ -47,7 +47,19 @@ Links in Markdown use the `[text](url)` syntax:
 **Example**:
 - `[Google](https://www.google.com)` will display "Google" as a clickable link directing to `https://www.google.com`.
 
-### 5. **Semicolons**
+### 5. **Colon (:)**
+
+The **colon (:)** is used to introduce or highlight important information. In Markdown, it can be used in a few ways:
+1. **Introducing Lists**: Colons help introduce a list or series of items.
+   - **Example**: "The project has several key goals: growth, partnerships, and listings."
+2. **Separation in Headings or Subheadings**: Colons can separate a title or section name from additional details or descriptions.
+   - **Example**: "Roadmap: Key Milestones Ahead"
+3. **Explanation or Definition**: The colon signals that an explanation or definition follows.
+   - **Example**: "TCC Rewards: How to Earn Tokens"
+
+In Markdown, the colon also helps create a cleaner separation of sections or ideas, making it easier for the LLM to interpret the structure and respond appropriately.
+
+### 6. **Semicolons**
 
 The **semicolon (;)** is used in Markdown and general writing to:
 1. **Separate Related Independent Clauses**: Connect two closely related ideas or independent clauses within a sentence.
