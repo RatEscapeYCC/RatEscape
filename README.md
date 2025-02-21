@@ -1,31 +1,3 @@
-# README - Managing and Editing the About.md File
-
-This document provides guidelines on how to properly edit the **about.md** file for the Rat Escape project. The **about.md** file contains important project details that will be used as input to a Large Language Model (LLM) to generate responses for the AI agent. It is crucial to preserve the correct syntax to ensure the AI can process the information accurately.
-
-## Why is Syntax Important?
-
-The **about.md** file is structured in Markdown format and contains specific information that needs to be interpreted correctly by the LLM. If the formatting or syntax is incorrect, the AI might fail to generate accurate responses, leading to errors or misinterpretations.
-
-To avoid this, follow these guidelines to maintain consistency and clarity in the document's structure.
-
-## Key Sections in the about.md File
-
-The **about.md** file includes the following main sections:
-
-1. **Project Overview**: General information about the Rat Escape project, including the purpose of the project and the $RAT token.
-2. **$RAT Token Details**: Information about the $RAT token, including contract addresses and other key identifiers.
-3. **Why $RAT?**: Explanation of why the $RAT token is valuable, including community-driven elements and resilience.
-4. **Roadmap**: The project’s timeline, including key milestones and future goals.
-5. **Where to Buy $RAT**: Instructions on where users can buy $RAT tokens.
-6. **TCC Rewards**: Explanation of how to earn TCC (Tunnel Cheese Crackers) and how rewards are calculated.
-
-## Guidelines for Editing the about.md File
-
-### 1. **Headings and Subheadings**
-
-Headings and subheadings are crucial for maintaining the logical structure and flow of the document. They allow readers and the AI to easily navigate the document and quickly find the information they need. For example:
-- The main heading `# About Rat Escape` introduces the overall context.
-- Subheadings like `## Why $RAT?` help break down sections into more specific topics, which makes the content easier to process both for humans and the AI system.
 
 - Use `#` for main headings (e.g., `# About Rat Escape`)
 - Use `##` for subsections (e.g., `## About $RAT`)
@@ -35,24 +7,24 @@ Headings and subheadings are crucial for maintaining the logical structure and f
 
 Ensure all links are correctly formatted using `[Link Text](URL)` syntax. Do not modify the URLs unless necessary. Links in the **about.md** file are often provided to social media platforms, exchange websites, and official resources.
 
-### 3. **Lists**
+### 3. **Bold and Italic Text**
+
+Text that requires emphasis should be marked with the appropriate syntax:
+- **Bold text**: Use `**` to mark bold text (e.g., `**Bold Text**`).
+- *Italic text*: Use `*` or `_` to mark italic text (e.g., `*Italic Text*`).
+
+### 4. **Lists**
 
 Ensure that lists are formatted correctly:
 - Use `-` or `*` for unordered lists.
 - Use `1.`, `2.`, etc., for ordered lists.
 
-### 4. **Numbered Lists**
+### 5. **Numbered Lists**
 
 To create a numbered list, simply number the items:
 
 1. First item
 2. Second item
-
-### 5. **Bold and Italic Text**
-
-Text that requires emphasis should be marked with the appropriate syntax:
-- **Bold text**: Use `**` to mark bold text (e.g., `**Bold Text**`).
-- *Italic text*: Use `*` or `_` to mark italic text (e.g., `*Italic Text*`).
 
 ### 6. **Preserve the Structure and Formatting**
 
