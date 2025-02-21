@@ -27,7 +27,7 @@ The **about.md** file includes the following main sections:
 
 ### 1. **Headings and Subheadings**
 
-Headings and subheadings are crucial for maintaining the logical structure and flow of the document. They allow readers and the AI to easily navigate the document and quickly find the information they need. For example:
+Headings and subheadings are crucial for maintaining the logical structure and flow of the document. They allow readers and the AI to easily navigate the document and quickly find the information they need. Using headers helps with organization and guiding the model through structured tasks, which is especially useful for complex or multi-part prompts. For example:
 - The main heading `# About Rat Escape` introduces the overall context.
 - Subheadings like `## Why $RAT?` help break down sections into more specific topics, which makes the content easier to process both for humans and the AI system.
 
@@ -41,7 +41,7 @@ Ensure all links are correctly formatted using `[Link Text](URL)` syntax. Do not
 
 ### 3. **Bold and Italic Text**
 
-Text that requires emphasis should be marked with the appropriate syntax:
+Text that requires emphasis should be marked with the appropriate syntax as bold text can enhance clarity and draw attention to specific tasks or details, but LLMs generally process it as regular text, so the impact is subtle. It’s particularly useful for ensuring key elements are not overlooked.:
 - **Bold text**: Use `**` to mark bold text (e.g., `**Bold Text**`).
 - *Italic text*: Use `*` or `_` to mark italic text (e.g., `*Italic Text*`).
 
